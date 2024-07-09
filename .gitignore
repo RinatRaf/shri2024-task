@@ -1,0 +1,20 @@
+# Ignore Node.js build files
+node_modules/
+
+# Ignore any local development configuration
+.env
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore editor-specific files
+*.log
+*.log.*
+*.sublime-*
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore npm-debug.log files
+npm-debug.log
